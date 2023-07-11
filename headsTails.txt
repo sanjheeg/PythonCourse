@@ -1,0 +1,5 @@
+heads
+tails
+tails
+tails
+exit
